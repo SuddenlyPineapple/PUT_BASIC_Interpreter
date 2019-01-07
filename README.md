@@ -3,12 +3,10 @@ Simple interpreter of my own BASIC programming language. It's project for my stu
 
 ## Language Syntax
 ### Instructions
-<ul>
-  <li>VARIABLE_NAME = EXP - it's variable assigments instruction,</li>
-  <li>Print - `PRINT EXP` or `PRINT VARIABLE_NAME`,</li>
-  <li>IF - `IF(EXP CMP EXP) INSTRUCTION`,</li>
-  <li>WHILE - `WHILE VARIABLE_NAME VARIABLE_CONTROL INSTRUCTION` - where `VARIABLE NAME` is variable which control loop, `VARIABLE_CONTROL` is instruction, which changes variable controling loop and `INSTRUCTION` is instruction executing while looping.</li>
-</ul>
+  - `VARIABLE_NAME = EXP` - it's variable assigments instruction,
+  - `PRINT` - `PRINT EXP` or `PRINT VARIABLE_NAME`,
+  - `IF` - `IF(EXP CMP EXP) INSTRUCTION`,
+  - `WHILE` - `WHILE VARIABLE_NAME VARIABLE_CONTROL INSTRUCTION` - where `VARIABLE NAME` is variable which control loop, `VARIABLE_CONTROL` is instruction, which changes variable controling loop and `INSTRUCTION` is instruction executing while looping.
 
 ### Symbols Description
   - `EXP` - (expression) - for example `a+5-b*3+2^2`:
