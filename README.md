@@ -1,5 +1,5 @@
 # PUT_BASIC_Interpreter
-Simple interpreter of my own BASIC programming language.
+Simple interpreter of my own BASIC programming language. It's project for my studies at Poznan University of Technology.
 
 ## Language Syntax
 ### Instructions
