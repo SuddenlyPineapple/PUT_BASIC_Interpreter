@@ -14,7 +14,7 @@ Simple interpreter of my own BASIC programming language. It's project for my stu
   - `EXP` - (expression) - for example `a+5-b*3+2^2`:
     - `NUMBER` - single number,
     - `VAR` -single variable,
-    - `OPERATOR` - `+``-``*``/``^` - operators addition, subtraction, multiplication, division and  of variables/numbers,
+    - `OPERATOR` - `+`,`-`,`*`,`/`,`^` - operators addition, subtraction, multiplication, division and  of variables/numbers,
   - `CMP` - it's comparator implemented as `>`
   - `INSTRUCTION` - single or multiple instructions - in our grammar this stands for line of this language code.
 
